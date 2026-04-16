@@ -168,4 +168,3 @@ copyCFBtn.MouseButton1Click:Connect(function()
         copyToClipboard(string.format("CFrame.new(%.2f, %.2f, %.2f)", cf.X, cf.Y, cf.Z), copyCFBtn)
     end
 end)
-
